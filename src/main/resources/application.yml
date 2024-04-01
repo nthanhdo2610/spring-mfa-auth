@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mfa-service
+  profiles:
+    active: local
